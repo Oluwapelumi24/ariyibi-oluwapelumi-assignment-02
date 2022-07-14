@@ -41,26 +41,7 @@ function countEvenNumbers(arrayOfNumbers) {
    return sumOfEvenNumbers;
   
 }
-console.log(countEvenNumbers([  17,
-        0,
-        67,
-        41,
-        49,
-        21,
-        1,
-        86,
-        76,
-        2,
-        54,
-        14,
-        93,
-        84,
-        14,
-        77,
-        35,
-        7,
-        29,
-        64]))
+
 assignment.countEvenNumbers = countEvenNumbers;
 
 /**
